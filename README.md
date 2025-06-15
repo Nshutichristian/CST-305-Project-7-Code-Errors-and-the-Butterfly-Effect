@@ -43,7 +43,7 @@ python3 Lorenz Queue Analysis.py
 - **Problem 5**: Visualization of TCMP queueing model
 
 ## File Structure
-- `project7_main.py`: Main script containing both parts of the project
+- `Lorenz Queue Analysis.py`: Main script containing both parts of the project
 - `README.md`: This documentation file
 - *(Optional)* `lorenz_system.py`: Separate module for Part 1 (if split into multiple files)
 - *(Optional)* `queueing_analysis.py`: Separate module for Part 2 (if split into multiple files)
