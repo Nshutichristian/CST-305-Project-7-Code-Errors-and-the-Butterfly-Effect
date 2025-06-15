@@ -26,7 +26,7 @@ This project demonstrates the butterfly effect in computational systems and anal
 Run the main script to execute both parts of the project:
 
 ```bash
-python Lorenz Queue Analysis.py
+python3 Lorenz Queue Analysis.py
 ```
 
 ## Part 1: Lorenz System
