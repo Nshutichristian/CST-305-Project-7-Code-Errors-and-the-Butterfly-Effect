@@ -1,4 +1,4 @@
-# CST-305 Project 7: Code Errors and Queueing Theory
+# CST-305: Project 7 – Code Errors and the Butterfly Effect
 
 ## Project Description
 This project demonstrates the butterfly effect in computational systems and analyzes various queueing theory models. The implementation includes:
