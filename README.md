@@ -15,7 +15,7 @@ This project demonstrates the butterfly effect in computational systems and anal
 1. Clone this repository:
    ```bash
    git clone https://github.com/Nshutichristian/CST-305-Project-7-Code-Errors-and-the-Butterfly-Effect.git
-   cd CST305-Project7
+
    ```
 2. Install required Python packages:
    ```bash
