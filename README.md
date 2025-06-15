@@ -14,7 +14,7 @@ This project demonstrates the butterfly effect in computational systems and anal
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/Nshutichristian/CST-305-Project-7-Code-Errors-and-the-Butterfly-Effect.git
    cd CST305-Project7
    ```
 2. Install required Python packages:
@@ -26,7 +26,7 @@ This project demonstrates the butterfly effect in computational systems and anal
 Run the main script to execute both parts of the project:
 
 ```bash
-python project7_main.py
+python Lorenz Queue Analysis.py
 ```
 
 ## Part 1: Lorenz System
